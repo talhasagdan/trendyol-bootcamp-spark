@@ -1,1 +1,0 @@
-# trendyol-bootcamp-spark
